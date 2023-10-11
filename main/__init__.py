@@ -12,12 +12,12 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
                     level=logging.WARNING)
 
 # variables
-API_ID = 20761469
-API_HASH = "928a78ee6d2f45f9cec4cb2d2d1a5c51"
+API_ID = 7534644
+API_HASH = "aada368b82de5c6c3534677bdb98a75b"
 BOT_TOKEN = "6445303595:AAFXtf42JBC6YK8Z6Rvjge9fZXicLIjnXtM"
-SESSION = "BAE8y30AWLC1TWX4OhC5PhEM3SWCjo6tJkgRWv_yIMCUniPUy_41DQc0NRelc-f5OUcLkRMIm_xX-4chI4Gi_VXfFdhwJtNmOhAbZstBqsg4yp3VCEnEx5K6qWlka6AyeZuSH_dFwBPYMFAXYJFHVyvvmp1dhDgEqmNkoft1jnou0c5gPYyKL7EuJzimy9dZfqHKQWTBi4UCpiBH-2GEsTUomMRcOrbqKlzPPOeO1jNn3dVtESTUkknClk5Yy1GTpIziSbpNAMsuYLdUf6glNkr5DtjHjYkgPTeYfl6yw3Y3yOkaUGFDE7hF6vbDUFV7x8L7OcfHkPCTAhsPaTQgTUbB0wDLswAAAAFiFRH5AA"
+SESSION = "AQBy-DQAhynEhgb1fwV-bcLEfpFgnjWMrAQ_YBEhNNDQOuGMT8OnhFmIKUr5DZXW9QbtBUTwvjM2lqEtiGTGMFc_aSTj5oKu2n8RhaieBJkdrdT6kTtf7GBY9_1SC3eCDQPfvluQB_xIXERTiE2c4Zwc6runwfD4uVl5OqXI1kgytQD41gRUetWuSQwCh2ty5Mlm-ZLRFc85MYaFAkcpeszJg83uuCZIMRiUKVl27O8gf9cLmNHd6t-vN-DO7f8jVd20h2CPK8zLcSvBB2UANuMp1t-50c348pLrn0xNOPy2oE3oNyI887fSajln7p-uvJJ_y2wGjDcKpBsp0uLW0wJ2GpNjxgAAAAAYOzNNAA"
 FORCESUB = "baixarrestritotelegram"
-AUTH = 5940515321
+AUTH = 406532941
 
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN) 
 
