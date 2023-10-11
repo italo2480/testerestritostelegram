@@ -14,7 +14,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 # variables
 API_ID = config("7534644", default=None, cast=int)
 API_HASH = config("aada368b82de5c6c3534677bdb98a75b", default=None)
-BOT_TOKEN = config("aada368b82de5c6c3534677bdb98a75b", default=None)
+BOT_TOKEN = config("6445303595:AAFXtf42JBC6YK8Z6Rvjge9fZXicLIjnXtM", default=None)
 SESSION = config("AQBy-DQAhynEhgb1fwV-bcLEfpFgnjWMrAQ_YBEhNNDQOuGMT8OnhFmIKUr5DZXW9QbtBUTwvjM2lqEtiGTGMFc_aSTj5oKu2n8RhaieBJkdrdT6kTtf7GBY9_1SC3eCDQPfvluQB_xIXERTiE2c4Zwc6runwfD4uVl5OqXI1kgytQD41gRUetWuSQwCh2ty5Mlm-ZLRFc85MYaFAkcpeszJg83uuCZIMRiUKVl27O8gf9cLmNHd6t-vN-DO7f8jVd20h2CPK8zLcSvBB2UANuMp1t-50c348pLrn0xNOPy2oE3oNyI887fSajln7p-uvJJ_y2wGjDcKpBsp0uLW0wJ2GpNjxgAAAAAYOzNNAA", default=None)
 FORCESUB = config("baixarrestritotelegram", default=None)
 AUTH = config("406532941", default=None, cast=int)
